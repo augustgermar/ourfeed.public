@@ -5,7 +5,7 @@ Anonabox theme is a clean HTML5 theme for LuCI - the web configuration interface
 
 #### To install you have to do the following steps:
 
-1. you need to add this feed to your openwrt feeds list dy adding following line in **openwrt_source_tree/feeds.conf.default file: _src-git anonaboxTheme https://github.com/scherbenokk/luci-anonabox-theme.git_**
+1. you need to add this feed to your openwrt feeds list dy adding following line in **openwrt_source_tree/feeds.conf.default file: _src-git anonaboxTheme https://github.com/augustgermar/luci-anonabox-theme.git_**
 
 2. Update/download all feeds: **_./scripts/feeds update_**
 
